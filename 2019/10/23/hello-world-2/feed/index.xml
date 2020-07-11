@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/2019/10/23/hello-world-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/2019/10/23/hello-world-2/</link>
+	<atom:link href="https://melusi-k.github.io/wp-website/2019/10/23/hello-world-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://melusi-k.github.io/wp-website/2019/10/23/hello-world-2/</link>
 	<description>Ideas For The Future, Now!</description>
 	<lastBuildDate>Wed, 23 Oct 2019 10:49:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
