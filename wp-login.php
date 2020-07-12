@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 	<!--[if IE 8]>
-		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="en-US">
+		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="en-US"
+	prefix="og: https://ogp.me/ns#" >
 	<![endif]-->
 	<!--[if !(IE 8) ]><!-->
-		<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+		<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"
+	prefix="og: https://ogp.me/ns#" >
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
